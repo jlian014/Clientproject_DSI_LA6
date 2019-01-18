@@ -107,6 +107,7 @@ We selected the median income categories for each zip code(neighborhood) as our 
     
     
 # Figures and Findings
+[Presentation](Yelp_Client_Project.pdf)
 
 
 # Conclusions and Future Works
