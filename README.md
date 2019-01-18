@@ -5,7 +5,7 @@
 
 ## Problem Statement
 
-In this Data Science project, we want to test a broad idea that if we can use big data related to commercial activity as an indicator for neighborhood affluency. We're going to develop a tool to estimate the affluence of a neighborhood based on the number of of businesses and services according to Yelp dollar signs (\\$,\\$\\$,\\$\\$\\$,\\$\\$\\$) in a given neighborhood. This tool will use a list of zip codes to estimate the wealth of the locality. While traditional methods typically estimate wealth of a locality based on demographic characteristics (e.g. income or unemployment rate), the novelty of this approach is in its use of big data related to commercial activity and cost of product and services as an indicator for affluency.
+In this Data Science project, we want to test whether or not big data related to commercial activity can be used as an effective indicator of neighborhood affluency. We're going to develop a tool to estimate the affluence of a neighborhood based on the number of of businesses and services according to Yelp dollar signs (\\$,\\$\\$,\\$\\$\\$,\\$\\$\\$) in a given neighborhood. This tool will use a list of zip codes to estimate the wealth of the locality. While traditional methods typically estimate wealth of a locality based on demographic characteristics (e.g. income or unemployment rate), the novelty of this approach is in its use of big data related to commercial activity and cost of product and services as an indicator for affluency.
 
 
 
