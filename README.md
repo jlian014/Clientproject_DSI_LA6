@@ -23,13 +23,13 @@ The Yelp dataset is a subset of Yelp businesses, reviews, and user data for use 
   └───yelp_academic_dataset_photo.json (495k rows)
       
 ```
-We only used Business JSON fiel to conduct an analysis. An example of the Business JSON file, it locates:
+We only used the Business JSON file to conduct analysis. An example of the Business JSON file, is below:
 
 business_id | attributes | categories	| city | full_address | hours | latitude | longitude | name | neighborhoods | open | review_count | stars | state | type
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
-In this nested dictionary format like JSON file, "$" can be found in the
+In this nested JSON file, "$" can be found in the
 keyword `attributes` and `RestaurantsPriceRange2`.
 
 <br>
