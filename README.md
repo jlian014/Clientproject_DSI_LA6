@@ -85,10 +85,13 @@ We selected the median income categories for each zip code(neighborhood) as our 
     
 2. [EDA and Mapping](/Code/02_EDA_and_Mapping.ipynb)
     
-    2.1 [EDA](/Code/02_EDA_and_Mapping.ipynb)
+    2.1 [Imcome Class Distribution](/Code/02_EDA_and_Mapping.ipynb)
     
-    2.2 [EDA](/Code/02_EDA_and_Mapping.ipynb)
+    2.2 [Yelp Dollar Signs by Metro Areas](/Code/02_EDA_and_Mapping.ipynb)
     
+    2.3 [Plotting Maps](/Code/02_EDA_and_Mapping.ipynb)
+    
+    2.4 [Correlation Heatmaps](/Code/02_EDA_and_Mapping.ipynb)
     
   
 3. [Feature Engineering and Modeling](/Code/03_Feature_Engineering_&_Modeling.ipynb)
@@ -120,5 +123,5 @@ located in the states of Arizona and Nevada. In order for our model to perform s
 Therefore, the final product we are delivering here is:
 Use Zip Code to show the locate the area in the map and show the businesses with Yelp dollar sign informations in the given Zip Code.  
 
-![workflow](../IMG/workflow.png)
-![demo](../IMG/Map_demo.png)
+![workflow](IMG/Workflow.png)
+![demo](IMG/Map_demo.png)
