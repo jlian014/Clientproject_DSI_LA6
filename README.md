@@ -120,8 +120,8 @@ located in the states of Arizona and Nevada. In order for our model to perform s
 
 3) Other Machine Learning Algorithms: We choose interpretable models instead of black box models in order to investigate the relationships between affluence of a neighborhood and the number of businesses according to Yelp dollar signs (\\$,\\$\\$,\\$\\$\\$,\\$\\$\\$) in a given neighborhood. It is worth to try different Machine learning models like XGBoost, Support Vector Machine and Neural Networks. However, with the features that possess the weak signal to the target variable, we expect it may hard to further improve the model's performance.
 
-Therefore, the final product we are delivering here is:
-Use Zip Code to show the locate the area in the map and show the businesses with Yelp dollar sign informations in the given Zip Code.  
+Therefore, the final product we are delivering here is: <br>
+Use Zip Code to locate the area in the map and show the businesses with Yelp expenditure level summary in the given Zip Code.  
 
 ![workflow](IMG/Workflow.png)
 ![demo](IMG/Map_demo.png)
